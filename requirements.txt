@@ -1,0 +1,10 @@
+openai
+requests
+python-dotenv~=1.0.0
+
+llama_index==0.5.6
+langchain==0.0.148
+openai==0.28
+
+IPython~=8.20.0
+httpx
